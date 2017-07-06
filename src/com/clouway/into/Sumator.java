@@ -1,7 +1,9 @@
 package com.clouway.into;
 
 /**
- * Created by clouway on 06.07.17.
+ * Sumator is a simple math class for that is used for adding of 2 numbers.
+ *
+ * @author David Kostov (david.kostov.cw@gmail.com)
  */
 public class Sumator {
 
